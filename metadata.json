@@ -1,0 +1,7 @@
+{
+  "name": "Property Finder Investment AI",
+  "description": "Your one-stop solution for real estate investment in Dubai. Driven by the guiding principles of Property Finder: Think Future First, Impact-driven, and Data-led.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
